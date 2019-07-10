@@ -1,0 +1,38 @@
+					 			TABLEAU DE BORD
+
+
+					 			Simulation de 8h0m à 22h0m
+
+Le feu rouge s'est allumé 542 fois , le feu vert 542 fois et le feu orange 541
+
+3998 vehicules sont passés aujourd'hui sur les deux routes 
+
+La taille moyenne de la file 1 est 460 vehicules
+
+La taille moyenne de la file 2 467 vehicule 
+
+Le temps moyen d'attente pour la file 1 est 0h 0m 20s
+
+Le temps moyen d'attente pour la file 2 est 0h 0m -19s
+
+La taille maximale de la file 1 est 3470
+
+La taille minimale de la file 1 est 1
+
+La taille maximale de la file 2 est 3459
+
+La taille minimale de la file 2 est 1
+
+Le débit moyen du traffic  est 286(véhicules/heure)
+
+Le nombre moyen de clients de la file 1 calculé selon la loi de Little est N=lambda*Tmoyen=1
+
+Le nombre moyen de clients de la file 2 calculé selon la loi de Little est N=lambda*Tmoyen=-1
+
+alpha = 1 ,Tr=47s ,Tv=40s ,To=6s 
+
+
+
+							ISMIN EI17: Projet réalisé par KHATIB Omar 
+
+
