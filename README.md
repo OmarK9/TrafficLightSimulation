@@ -14,8 +14,9 @@ Download the zip folder from the repository
 ## Usage
 
 ```
+Browse to the folder of the project and type the following command lines:
 make
-./project
+./projet
 ```
 
 ## Contributing
